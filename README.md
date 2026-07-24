@@ -1,0 +1,58 @@
+<h1 align="center">Hi, I'm Ben 👋</h1>
+
+<p align="center">
+  <em>Building things on GitHub • shipping PRs • collecting badges 🦈🧠</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bxnbxrch&label=Profile%20views&color=8b5cf6&style=flat" alt="profile views" />
+  <a href="https://github.com/bxnbxrch?tab=followers">
+    <img src="https://img.shields.io/github/followers/bxnbxrch?label=Followers&style=social" alt="followers" />
+  </a>
+  <a href="https://github.com/bxnbxrch?tab=repositories">
+    <img src="https://img.shields.io/github/stars/bxnbxrch?label=Stars&style=social" alt="stars" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bxnbxrch&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=bxnbxrch&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnbxrch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bxnbxrch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bxnbxrch&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+### 🛠️ Tech Stack
+
+<!-- Placeholder set — edit to match what you actually use -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="ts" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="py" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+</p>
+
+---
+
+<p align="center">
+  <em>⭐️ From <a href="https://github.com/bxnbxrch">bxnbxrch</a></em>
+</p>
