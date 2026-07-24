@@ -1,7 +1,6 @@
 name: Metrics
 
 on:
-  # Runs daily; also runnable on demand from the Actions tab / CLI.
   schedule:
     - cron: "30 6 * * *"
   workflow_dispatch:
@@ -16,8 +15,6 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          # Personal Access Token (classic) with `public_repo` scope,
-          # stored as the repo secret METRICS_TOKEN.
           token: ${{ secrets.METRICS_TOKEN }}
           user: bxnbxrch
           filename: github-metrics.svg
@@ -25,17 +22,22 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
 
-          # Isometric 3D contribution calendar (the eye-catching one)
+          # Isometric 3D contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Most used languages
-          plugin_languages: yes
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_limit: 8
-
-          # Coding habits / active hours
+          # Coding habits + activity charts (per time of day / per day)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+
+          # Languages / most used
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+
+          # "Mastered technologies and topics" icon grid
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_sort: stars
