@@ -1,7 +1,7 @@
 # Ben
 `Reverse Engineering` • `C++` • `Full Stack`
 <p align="center">
- <img src="https://widgits-api.up.railway.app/api/all-time?user=bxnbxrch&theme=dark&accent=6809dc") />
+ <img src="https://widgits-api.up.railway.app/api/all-time?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
 </p>
 
 <p>
