@@ -1,5 +1,4 @@
 # Ben
-
 `Reverse Engineering` • `C++` • `Full Stack`
 
 <p>
@@ -13,6 +12,28 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bxnbxrch&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnbxrch&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://widgits-api.up.railway.app/api/stats?user=bxnbxrch&accent=8b5cf6" />
+  <img height="170" src="https://widgits-api.up.railway.app/api/languages?user=bxnbxrch&accent=8b5cf6" />
+</p>
+
+<p align="center">
+  <img src="https://widgits-api.up.railway.app/api/streak?user=bxnbxrch&accent=8b5cf6" />
+</p>
+
+### All-time contributions
+<p align="center">
+  <img src="https://widgits-api.up.railway.app/api/all-time?user=bxnbxrch&style=gradient&accent=8b5cf6" />
+</p>
+
+<details>
+<summary>Contribution heatmap</summary>
+<br>
+<p align="center">
+  <img src="https://widgits-api.up.railway.app/api/heatmap?user=bxnbxrch&accent=8b5cf6" />
+</p>
+</details>
+
+### Top repos
+<p align="center">
+  <img src="https://widgits-api.up.railway.app/api/top-repos?user=bxnbxrch&accent=8b5cf6" />
 </p>
