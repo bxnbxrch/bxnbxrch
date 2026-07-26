@@ -4,8 +4,7 @@
 
 **Reverse Engineering · C++ · Full-Stack Development**
 
-[![Website](https://img.shields.io/badge/jhook.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://jhook.dev)
-[![Email](https://img.shields.io/badge/ben%40jhook.dev-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ben@jhook.dev)
+<img src="https://widgits-api.up.railway.app/api/links?items=Site|https://jhook.dev,Email|mailto:ben@jhook.dev&theme=dark&accent=6809dc&hide_border=true" />
 
 </div>
 
@@ -38,20 +37,20 @@ Alongside that I work as a full-stack developer, building internal tools and pro
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bxnbxrch&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bxnbxrch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165em" src="https://widgits-api.up.railway.app/api/stats?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
+<img height="165em" src="https://widgits-api.up.railway.app/api/languages?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bxnbxrch&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://widgits-api.up.railway.app/api/streak?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://widgits-api.up.railway.app/api/all-time?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
+<img src="https://widgits-api.up.railway.app/api/line?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true&style=gradient" />
 
 </div>
 
@@ -61,9 +60,6 @@ Alongside that I work as a full-stack developer, building internal tools and pro
 
 <div align="center">
 
-<a href="https://github.com/bxnbxrch/std-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxnbxrch&repo=std-library&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/bxnbxrch/SVOEngine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxnbxrch&repo=SVOEngine&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/bxnbxrch/spotui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxnbxrch&repo=spotui&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/bxnbxrch/railway-tui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bxnbxrch&repo=railway-tui&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<img src="https://widgits-api.up.railway.app/api/top-repos?repos=bxnbxrch/std-library,bxnbxrch/SVOEngine,bxnbxrch/spotui,bxnbxrch/railway-tui&theme=dark&accent=6809dc&hide_border=true" />
 
 </div>
