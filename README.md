@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://widgits-api.up.railway.app/api/line?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true&style=gradient" width="100%" />
+
 # Ben Birch
 
 **Reverse Engineering · C++ · Full-Stack Development**
@@ -8,20 +10,39 @@
 
 </div>
 
----
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-### About
+### Overview
 
-I reverse engineer software and build C++ tooling, with a focus on native/binary-level work. Since 2021 I've been reverse engineering game clients and building mods and cheats — internals, anti-cheat behavior, memory structures, netcode.
+I reverse engineer software and build native C++ tooling with a focus on binary analysis, game internals and low-level systems.
 
-Alongside that I work as a full-stack developer, building internal tools and products for businesses, including my work on **MakeDevice**.
+Since 2021 I've worked on reverse engineering game clients, internal tooling, memory analysis and full-stack products.
 
-- Binary analysis, memory manipulation, and native hooking (Windows/x86-64)
-- Game client reverse engineering — mods, cheats, internal tooling
-- Full-stack product and internal-tools development
-- Native C++ libraries and low-level systems work
+</td>
 
----
+<td width="45%" valign="top">
+
+<img src="https://widgits-api.up.railway.app/api/stats?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<img src="https://widgits-api.up.railway.app/api/languages?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
+
+</td>
+
+<td valign="top">
+
+<img src="https://widgits-api.up.railway.app/api/streak?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ### Stack
 
@@ -34,29 +55,6 @@ Alongside that I work as a full-stack developer, building internal tools and pro
 ![x86-64 Assembly](https://img.shields.io/badge/x86--64%20ASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ---
-
-<div align="center">
-
-<img height="165em" src="https://widgits-api.up.railway.app/api/stats?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
-<img height="165em" src="https://widgits-api.up.railway.app/api/languages?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://widgits-api.up.railway.app/api/streak?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://widgits-api.up.railway.app/api/line?user=bxnbxrch&theme=dark&accent=6809dc&hide_border=true&style=gradient" />
-
-</div>
-
----
-
-### Pinned
 
 <div align="center">
 
